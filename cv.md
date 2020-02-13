@@ -32,3 +32,13 @@
 техниками адаптивной верстки. Знаю Photoshop, Figma. 
 
 Легко обучаюсь и хорошо работаю в коллективе. Не имею вредных привычек и поддерживаю здоровый образ жизни.
+
+Ссылки на некоторые проекты, над которыми работала:
+
+https://www.nordman-algorithms.com/
+https://microlife-shop.by/
+https://agu-baby.by/
+https://agu-baby.in.ua/
+https://bcph.com.ua/
+http://torrento.by/
+https://plover.by/
