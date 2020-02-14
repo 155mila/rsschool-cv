@@ -4,7 +4,7 @@
 
 Моя контактная информация: 8-029-3546372, milarst30@gmail.com
 
-Опыт работы:
+#Опыт работы:
 
 Последние 1,5 года я работала на позиции технического специалиста
 в web-агенстве решала следующие задачи:
@@ -35,10 +35,29 @@
 
 Ссылки на некоторые проекты, над которыми работала:
 
-https://www.nordman-algorithms.com/
-https://microlife-shop.by/
-https://agu-baby.by/
-https://agu-baby.in.ua/
-https://bcph.com.ua/
-http://torrento.by/
-https://plover.by/
+https://www.nordman-algorithms.com/<br>
+https://microlife-shop.by/<br>
+https://agu-baby.by/<br>
+https://agu-baby.in.ua/<br>
+https://bcph.com.ua/<br>
+http://torrento.by/<br>
+https://plover.by/<br>
+
+#Высшее образование
+
+2013
+
+Филиал БНТУ "ИПКиПК"<br>
+Новые материалы и технологии, Web-дизайн и компьютерная графика
+
+2009
+
+Белорусский национальный технический университет, Минск<br>
+Механико-технологический, Материаловедение в машиностроении
+
+#Курсы
+
+2017
+
+IT-школа Myfreedom<br>
+ЧУП "Фридом Центр", КУРС FRONTEND-РАЗРАБОТКИ. JAVASCRIPT / REACT
