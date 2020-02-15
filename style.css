@@ -1,0 +1,17 @@
+body{
+    background-color: lightgrey;
+}
+main{
+    display: flex;
+    width: 1024px;
+    margin: 0 auto;
+}
+.img-round{
+    border-radius:50%;
+}
+.col-left{
+    background-color: #b4e1da;
+}
+.col-right{
+    background-color: #ffffff;
+}
