@@ -1,0 +1,62 @@
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    line-height: 1.625em;
+    background-color: lightgrey;
+    color: #383838;
+}
+main{
+    display: flex;
+    width: 1024px;
+    margin: 0 auto;
+}
+.img-round{
+    margin-top: 65%;
+    border-radius:50%;
+    
+}
+.col-left,
+h2{
+    padding: 10px 5px;
+    background-color: #b4e1da;
+    
+}
+.col-right{
+    background-color: #ffffff;
+}
+.col-right div,
+.col-left div,
+dt{
+     padding: 0 40px;
+}
+.card-cv{
+    text-align: center;
+}
+.name{
+    font-size: 3em;
+    line-height: 1.5em;
+    text-align: center;
+}
+h2{
+    margin: 20px 20px 0 20px;
+}
+.contact{
+    margin-top: 50px;
+    padding: 10px 5px;
+    text-align: center;
+    font-weight: 600;
+    border: 2px solid #383838; 
+}
+.examples{
+    list-style: none;
+}
+.list li{
+    font-size: 18px;
+}
+.skills-level {
+    background-color: #b4e1da;
+}
+.skills dd {
+    margin-right: 20px;
+    margin-bottom: 10px;
+    background-color: #e8e8e8;
+}
