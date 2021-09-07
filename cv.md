@@ -39,3 +39,18 @@ function solution(str){
   return str.split('').reverse().join('');
 }
 ```
+
+## Education
+
+- **Belarusian National Technical University**
+  Mechanics and Technology Faculty, Materials Science in Mechanical Engineering
+- **The Branch of the BNTU «Institute of Improvement of Professional Skills and Staff Retraining»**
+  Web Design and Computer Graphics
+- Udemy
+  [JavaScript (in process…)] (https://www.udemy.com/course/javascript_full/)
+
+## Languages
+
+- StreamLine Language School English test result: Pre-Intermediate (CEFR A2+).
+- EPAM English test result: A1  
+  (At the moment I’m raising my level of English with an English teacher)
