@@ -1,63 +1,41 @@
-Здравствуйте.
+# Rabtsevich Liudmila
 
-Меня зовут Рабцевич Людмила.
+---
 
-Моя контактная информация: 8-029-3546372, milarst30@gmail.com
+## My Contacts Info
 
-#Опыт работы:
+---
 
-Последние 1,5 года я работала на позиции технического специалиста
-в web-агенстве решала следующие задачи:
+- Location: Minsk, Belarus
+- Phone: +375 29 354-63-72
+- Email: milarst30@gmail.com
+- GitHub: [155mila] (https://github.com/155mila)
 
--задачи, связанные с хостингом, доменами, внешними сервисами, которые интегрированы на сайт;
+## About Me
 
--верстка по макетам PSD, figma;
+---
 
--устранение неполадок в работе сайта;
+I work as a HTML-coder. I really like to code. I’m interested in creating useful content. I don’t have a problem learning, I like learning new things. So my goal is to become front-end developers.
 
--решение задач SEO специалиста;
+> It's never too late to learn...
 
--перенос сайтов, создание копий сайтов;
+## Skills
 
--редиректы, подключение сервисов аналитики;
+---
 
--установка модулей и изучение принципов работы с ними;
+- HTML, CSS(Bootstrap, SASS/SCSS, BEM)
+- JS(Fundamentals, ES6+, DOM, JSON, OOP, Asynchronous JavaScript)
+- Git
+- Figma, Photoshop
 
--составление тех.документации для заказчика;
+## Code Example
 
--правка верстки, исправление ошибок кода, подключение плагинов на js;
--работа с CMS WordPress, Joomla, Битрикс;
+```
+Complete the solution so that it reverses the string passed into it.
+'world'  =>  'dlrow'
+Complete the solution so that it reverses the string passed into it.
 
-Обладаю знаниями HTML5/CSS3, JavaScript(базовые знания), Bootstrap4, 
-техниками адаптивной верстки. Знаю Photoshop, Figma. 
-
-Легко обучаюсь и хорошо работаю в коллективе. Не имею вредных привычек и поддерживаю здоровый образ жизни.
-
-Ссылки на некоторые проекты, над которыми работала:
-
-https://www.nordman-algorithms.com/<br>
-https://microlife-shop.by/<br>
-https://agu-baby.by/<br>
-https://agu-baby.in.ua/<br>
-https://bcph.com.ua/<br>
-http://torrento.by/<br>
-https://plover.by/<br>
-
-#Высшее образование
-
-2013
-
-Филиал БНТУ "ИПКиПК"<br>
-Новые материалы и технологии, Web-дизайн и компьютерная графика
-
-2009
-
-Белорусский национальный технический университет, Минск<br>
-Механико-технологический, Материаловедение в машиностроении
-
-#Курсы
-
-2017
-
-IT-школа Myfreedom<br>
-ЧУП "Фридом Центр", КУРС FRONTEND-РАЗРАБОТКИ. JAVASCRIPT / REACT
+function solution(str){
+  return str.split('').reverse().join('');
+}
+```
