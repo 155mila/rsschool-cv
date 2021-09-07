@@ -5,7 +5,7 @@
 - **Location:** Minsk, Belarus
 - **Phone:** +375 29 354-63-72
 - **Email:** milarst30@gmail.com
-- **GitHub:** [155mila] (https://github.com/155mila)
+- **GitHub:** [155mila](https://github.com/155mila)
 
 ## About Me
 
