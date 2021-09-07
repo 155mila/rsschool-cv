@@ -44,5 +44,5 @@ function solution(str){
 ## Languages
 
 - [StreamLine Language School English test result](https://test.str.by/mod/quiz/view.php?id=1176): **Pre-Intermediate (CEFR A2+)**.
-- [EPAM English test result](href=https://examinator.epam.com/Main/PersonalAssignments): **A1**  
+- [EPAM English test result](https://examinator.epam.com/Main/PersonalAssignments): **A1**  
   (At the moment I’m raising my level of English with an English teacher)
