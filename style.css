@@ -212,16 +212,16 @@ footer {
   margin-right: 20px;
 }
 .footer-git {
-  background-image: url(../assets/github.svg);
+  background-image: url(assets/github.svg);
 }
 .footer-telegram {
-  background-image: url(../assets/telegram.svg);
+  background-image: url(assets/telegram.svg);
 }
 .footer-viber {
-  background-image: url(../assets/viber.svg);
+  background-image: url(assets/viber.svg);
 }
 .footer-rsschol {
-  background-image: url(../assets/rsschool.svg);
+  background-image: url(assets/rsschool.svg);
   width: 70px;
   height: 26px;
   margin-right: 20px;
